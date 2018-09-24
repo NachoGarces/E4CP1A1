@@ -1,0 +1,47 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.header{
+  background-image: url("images/bg.jpeg");
+  color: white;
+  text-align: center;
+}
+.logo{
+  width:100px;
+}
+.img1{
+  max-height: 300px;
+}
+li{
+  float: left;
+  list-style-type: none;
+}
+p{
+  font-size: 14px;
+}
+h1{
+  margin: 40px 0 30px 0;
+}
+footer{
+  background-color: black;
+  color: white;
+  height: 40px;
+  vertical-align: middle;
+  padding: 15px 0 15px 0;
+}
+.foot p{
+  margin-bottom: 0;
+}
+/* SECCIONES */
+.seccion2{
+  text-align: center;
+}
+.seccion3{
+  text-align: center;
+  padding: 40px 0 30px 0;
+}
+.seccion4{
+  margin-right: 0;
+  text-align: left;
+  padding: 40px 0 20px 0;
+}
